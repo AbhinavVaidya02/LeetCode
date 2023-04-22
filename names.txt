@@ -1,0 +1,2 @@
+Adding some lines to chek git status
+How are you?
